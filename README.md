@@ -1,16 +1,13 @@
 ## Philip Clarke
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I have spent the last 10 years using PHP based technologies to build, develop and sell some wonderful products. I love taking ideas and turning them into exciting businesses and want to use the latest technologies to do it all over again.  Looking to build on my coding adventures at Makers Academy and to grow my junior developer skills whilst creating something fantastic.
 
-## Skills
+## Successfull IT entrepreneur
 
-#### This Skill
+- 10 years building tech businesses, some successfull, many unsuccessfull.
+- Building, making and selling products for Redhood IT and having lots of fun with start ups, charities, and local government.
+- Led the business development of CareZone, a secure web service for vulnerable children https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
 
 #### Another Skill
 
