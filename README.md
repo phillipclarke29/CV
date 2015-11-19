@@ -10,7 +10,7 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 - Set up marketing and fundraising database for numerous charities.
 
 
-## IT entrepreneur
+#### IT entrepreneur
 
 - 10 years building tech businesses, some successfull, many unsuccessfull.
 - Building, making and selling products for various clients and having lots of fun with start ups, charities, and local government including Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
@@ -27,8 +27,9 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 ##### Recent Projects
 
 - Dr WoW - https://github.com/phillipclarke29/DrWow
-- globaltrackit
+- globaltrackit.com
 - bowlingchallenge - https://github.com/phillipclarke29/bowling-challenge
+- Gaucher Humanitarian Aid Global Case Database
 
 ## Education
 
@@ -45,7 +46,7 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 
 - Biology BSc
 
-## Experience
+## Employment
 
 **Redhood IT** (July 2006 - Present)    
 CEO
