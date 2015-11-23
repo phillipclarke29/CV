@@ -1,12 +1,12 @@
 ## Philip Clarke
 
-I have spent the last 10 years using PHP based technologies to build, develop and sell some wonderful products. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest technologies to do it all over again.  Looking to build on my coding adventures at Makers Academy, grow my junior developer skills whilst creating something fantastic.
+I have spent the last 10 years using PHP based technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest technologies to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
 
 #### Software Development
 
-- 15 years marketing database management for charities including Kids Company, RSPB, Kew Gardens and IFAW.
-- Managed a marketing team that grew major donor income by 100% in two years.
-- Built a global marketing team based in three continents working to support international wildlife conservation work.
+- Built local authority micro networking products using initially elgg, then drupal and PHP that created knowledge based communities for vulnurable groups acrosss the UK.
+- Created an sms school bus alert system based on the essendex api to support parents of disabled children.
+- Designed 
 - Set up marketing and fundraising database for numerous charities.
 
 
