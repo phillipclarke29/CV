@@ -6,10 +6,10 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 -------------
 |Project Name | Description |
 |-------------|-------------|
-|[Dr WoW] (https://github.com/phillipclarke29)|A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes|
-|[GlobalTrackIT](https://github.com/phillipclarke29)| Chitter is a Twitter clone built in Ruby on Sinatra|
-|[Thermostat](https://github.com/phillipclarke29https://github.com/phillipclarke29)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
-|[Bowling Challenge](https://github.com/phillipclarke29)|A small Ruby game of RPS built using Sinatra|
+|[Dr WoW] (https://github.com/phillipclarke29)|A Medical Site|
+|[Ionic Todo app](https://github.com/phillipclarke29)| |
+|[Thermostat](https://github.com/phillipclarke29https://github.com/phillipclarke29)|.|
+|[Bowling Challenge](https://github.com/phillipclarke29)|Score a bowling game for one player using Javascript and Jasmine|
 
 ###Technical Skills and Technologies
 ---------------------------------
