@@ -2,21 +2,24 @@
 
 I have spent the last 10 years using PHP based technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest technologies to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
 
-####Code Examples
+###Code Examples
+-------------
+|Project Name | Description |
+|-------------|-------------|
+|[Grape] (https://github.com/Adrian1707/music_discover)|A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes|
+|[Chitter](https://github.com/Adrian1707/chitter-challenge)| Chitter is a Twitter clone built in Ruby on Sinatra|
+|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
+|[Rock, Paper, Scissors](https://github.com/Adrian1707/rps-challenge)|A small Ruby game of RPS built using Sinatra|
 
-Project Name	Description
-Grape	A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes
-Chitter	Chitter is a Twitter clone built in Ruby on Sinatra
-Instagram	An Instagram clone build in Rails and using Bootstrap on the front-end.
-Rock, Paper, Scissors	A small Ruby game of RPS built using Sinatra
-Technical Skills and Technologies
-
-Most Comfortable	Comfortable	Touched on
-Languages	Ruby, CSS	Javascript,	Python
-Databases/ORMS	PostGresQL, DataMapper, ActiveRecord	Neo4j
-Frameworks	Rails, Sinatra	Meteor.js	Angular.js
-Testing	RSpec, Capybara	Jasmine, FactoryGirl, Fabricator
-Other	Version control through Github	Heroku deployment, Agile methodologies
+###Technical Skills and Technologies
+---------------------------------
+| |Most Comfortable|Comfortable|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Ruby, CSS|Javascript,|Python|
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord|Neo4j|                 |
+|Frameworks|Rails, Sinatra|Meteor.js|Angular.js                       |
+|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
+|Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 
 #### Software Development
