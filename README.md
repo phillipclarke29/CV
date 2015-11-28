@@ -59,8 +59,7 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 - Independent learner and problem-solver
 - OOP, TDD, MVC,
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Mongo DB, Node.js, Express, Angular.js, Firebase
-- Rspec, Jasmine, Mocha, Protractor
+- Pair programming
 
 #### Sussex University (1984-1987)
 
