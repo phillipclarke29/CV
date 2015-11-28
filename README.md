@@ -6,19 +6,19 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 -------------
 |Project Name | Description |
 |-------------|-------------|
-|[Grape] (https://github.com/Adrian1707/music_discover)|A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes|
-|[Chitter](https://github.com/Adrian1707/chitter-challenge)| Chitter is a Twitter clone built in Ruby on Sinatra|
-|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
-|[Rock, Paper, Scissors](https://github.com/Adrian1707/rps-challenge)|A small Ruby game of RPS built using Sinatra|
+|[Dr WoW] (https://github.com/phillipclarke29)|A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes|
+|[GlobalTrackIT](https://github.com/phillipclarke29)| Chitter is a Twitter clone built in Ruby on Sinatra|
+|[Thermostat](https://github.com/phillipclarke29https://github.com/phillipclarke29)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
+|[Bowling Challenge](https://github.com/phillipclarke29)|A small Ruby game of RPS built using Sinatra|
 
 ###Technical Skills and Technologies
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, CSS|Javascript,|Python|
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord|Neo4j|                 |
-|Frameworks|Rails, Sinatra|Meteor.js|Angular.js                       |
-|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
+|Languages|Javascript,Angular, Node, Express, Ruby
+|Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase|                 |
+|Frameworks|Rails|Meteor.js|Angular.js, Ionic                     |
+|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Karma, Protractor|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 
@@ -47,9 +47,8 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 
 ##### Recent Projects
 
-- Dr WoW - https://github.com/phillipclarke29/DrWow
+- www.tessel.co.uk
 - globaltrackit.com
-- bowlingchallenge - https://github.com/phillipclarke29/bowling-challenge
 - Gaucher Humanitarian Aid Global Case Database
 
 ## Education
