@@ -1,6 +1,8 @@
 ## Philip Clarke
 
-I have spent the last 10 years using PHP based technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest technologies to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
+I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
+
+I love learning new stuff and pride myself on being able to get up to speed and add code value quickly.
 
 ###Code Examples
 -------------
@@ -15,7 +17,7 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Javascript,Angular, Node, Express, Ruby
+|Languages|Javascript, Angular, Node, Express, Ruby
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
 |Frameworks|Angular, Ionic |Meteor, Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
