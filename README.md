@@ -6,10 +6,10 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 -------------
 |Project Name | Description |
 |-------------|-------------|
-|[Dr WoW] (https://github.com/phillipclarke29)|A Medical Site|
-|[Ionic Todo app](https://github.com/phillipclarke29)| |
-|[Thermostat](https://github.com/phillipclarke29https://github.com/phillipclarke29)|.|
-|[Bowling Challenge](https://github.com/phillipclarke29)|Score a bowling game for one player using Javascript and Jasmine|
+|[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
+|[Ionic Todo app](https://github.com/phillipclarke29/ionicapp)|Playing with Ionic|
+|[Thermostat](https://github.com/phillipclarke29/thermostat/tree/master/spec)|An online thermostat|
+|[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge)|Score a bowling game for one player using Javascript and Jasmine|
 
 ###Technical Skills and Technologies
 ---------------------------------
