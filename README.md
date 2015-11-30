@@ -17,8 +17,8 @@ I have spent the last 10 years using PHP based technologies to build, develop an
 |---------|----------------|-------------------|------------------------------|
 |Languages|Javascript,Angular, Node, Express, Ruby
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase|                 |
-|Frameworks|Rails|Meteor.js|Angular.js, Ionic                     |
-|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Karma, Protractor|
+|Frameworks|Angular.js, Ionic |Meteor.js, Rails|                    |
+|Testing|Karma, Protractor, Jasmine, RSpec, Capybara|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 
