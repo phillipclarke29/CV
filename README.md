@@ -10,7 +10,7 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 |-------------|-------------|
 |[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
 |[Ionic Todo app](https://github.com/phillipclarke29/ionicapp)|Playing with Ionic|
-|[Thermostat](https://github.com/phillipclarke29/thermostat)|An online thermostat|
+|[Thermostat](https://github.com/phillipclarke29/thermostat)|An online thermostat using Javascript and express|
 |[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge)|Score a bowling game for one player using Javascript and Jasmine|
 
 ###Technical Skills and Technologies
@@ -47,11 +47,11 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 - Built a global marketing team based in three continents working to support international wildlife conservation work.
 - Set up marketing and fundraising databases for numerous charities.
 
-##### Recent Projects
+##### Current Projects
 
 - www.tessel.co.uk
 - globaltrackit.com
-- Gaucher Humanitarian Aid Global Case Database
+
 
 ## Education
 
@@ -76,7 +76,7 @@ Development Director
 **Kids Company** (2000 - 2001)   
 Marketing Consultant
 **IFAW** (1996 - 2000)   
-Marketing Managing
+Marketing Manager
 **RSPB** (1992 - 1996)   
 Database Marketing Manager
 **Royal Botanic Gardens Kew** (1990 - 1992)   
