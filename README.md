@@ -1,8 +1,10 @@
 ## Philip Clarke
 
-I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
+I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products for companies in both private and public sectors across the UK.  Continuing my coding adventure at Maker's Academy, I want to use the latest technology to do it all over again. 
 
-I love learning new technologies and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be helping to build something beautiful for a global market.
+Currently I am looking for full time opportunity to grow as a junior developer, and help create exciting new softwares.  I love learning new technologies and particularly enjoy turning great ideas and good code into profit.  In my perfect world, I would be helping to build something beautiful for a global market.
+
+<!-- A&E : to be more explicit of what exactly you are looking for, eg. a full time / part time junior developer position.  Be god to elaborate with your vision of creating something fantastic, new and exciting??) -->
 
 ###Code Examples
 -------------
@@ -15,7 +17,7 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 
 ###Technical Skills and Technologies
 ---------------------------------
-| |Most Comfortable|Comfortable|Touched on|
+| |Knowledgeable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Javascript, Angular, Node, Express, Ruby
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
@@ -26,29 +28,34 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 
 #### Software Development
 
-- Built and sold successful local authority micro networking products using initially elgg, then drupal and PHP that created successful knowledge based communities for vulnerable groups across the UK.
-- Designed, implemented, hosted and supported global case management software for Gaucher humanitarian Aid which tracked the medical histories of sick and dying children across the world.
-- Created an sms school bus alert system based on the Essendex api to support parents of disabled children.
+- Successfully built and sold micro networking products for local authorities using Elgg initially, then Drupal and PHP that facilitated knowledge sharing communities for vulnerable groups across the UK.
+- Designed, implemented, and hosted global case management software for Gaucher humanitarian Aid which tracked the medical histories of sick and dying children across the world.
+- Built an sms school bus alert system based on the Essendex API to support parents of disabled children.
 - Created an MVP goal sharing application for Amelore Ltd.
-- Set up marketing and fundraising databases for several national and international charities.
+- Implemented marketing and fundraising databases for several national and international charities.
 
 
 #### IT entrepreneur
 
-- 10 years building tech businesses, some successfull, many unsuccessfull.
-- Building, making and selling products for various clients and having lots of fun with start ups, charities, and local government including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
-- Ran my own IT companies with turn over of £200,000 a year.
-- Led the business development of CareZone, a secure web service for vulnerable children https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
+- 10 years experience building and launching tech businesses
+- Built and sold products for clients from start ups, charities to local government, including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
+- Founder and owner of several IT companies with turn over of £200,000 a year. 
+<!-- name the IT companies? -->
+- Led business development of CareZone, a secure web service for vulnerable children
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
+
+<!--attach link to url on CareZone and delete url link... I think there is a way to do it in markdown >
 
 #### Database Marketing
 
-- 15 years marketing database management for charities including Kids Company, RSPB, Kew Gardens and IFAW.
-- Managed a marketing team that grew major donor income by 100% in two years.
-- Built a global marketing team based in three continents working to support international wildlife conservation work.
+- 15 years experience in marketing database management for charities, including Kids Company, RSPB, Kew Gardens and IFAW.
+- Managed a marketing team of _number people_? that raised major donor income by 100% in two years.
+- Built a global marketing team based in three continents to support international wildlife conservation work.
 - Set up marketing and fundraising databases for numerous charities.
 
 ##### Current Projects
 
+<!-- a one sentence description to each current project? if mentioned above, then make make sure to attach clickable link to url on name -->
 - www.tessel.co.uk
 - globaltrackit.com
 
@@ -57,11 +64,13 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 
 #### Makers Academy (September 2015 cohort)
 
-- Curiosity and hungry passion for code
+- OOP, TDD, MVC
+- Curiosity and passion for code
+- Software craftsmanship
 - Independent learner and problem-solver
-- OOP, TDD, MVC,
-- Software Craftsmanship
-- Pair programming
+- Advocate for pair programming
+
+<!-- You have such amazing work experience, perhaps include a link to Linked_in for detailed information of your employment history -->
 
 #### Sussex University (1984-1987)
 
