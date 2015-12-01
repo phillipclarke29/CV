@@ -2,7 +2,7 @@
 
 I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
 
-I love learning new stuff and pride myself on being able to get up to speed and add code value quickly.
+I love learning new technologies and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be helping to build something beautiful for a global market.
 
 ###Code Examples
 -------------
@@ -10,7 +10,7 @@ I love learning new stuff and pride myself on being able to get up to speed and 
 |-------------|-------------|
 |[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
 |[Ionic Todo app](https://github.com/phillipclarke29/ionicapp)|Playing with Ionic|
-|[Thermostat](https://github.com/phillipclarke29/thermostat/tree/master/spec)|An online thermostat|
+|[Thermostat](https://github.com/phillipclarke29/thermostat)|An online thermostat|
 |[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge)|Score a bowling game for one player using Javascript and Jasmine|
 
 ###Technical Skills and Technologies
@@ -26,11 +26,11 @@ I love learning new stuff and pride myself on being able to get up to speed and 
 
 #### Software Development
 
-- Built and sold local authority micro networking products using initially elgg, then drupal and PHP that created successful knowledge based communities for vulnerable groups across the UK.
-- Created an sms school bus alert system based on the Essendex api to support parents of disabled children.
+- Built and sold successful local authority micro networking products using initially elgg, then drupal and PHP that created successful knowledge based communities for vulnerable groups across the UK.
 - Designed, implemented, hosted and supported global case management software for Gaucher humanitarian Aid which tracked the medical histories of sick and dying children across the world.
+- Created an sms school bus alert system based on the Essendex api to support parents of disabled children.
 - Created an MVP goal sharing application for Amelore Ltd.
-- Set up marketing and fundraising database for numerous charities.
+- Set up marketing and fundraising databases for several national and international charities.
 
 
 #### IT entrepreneur
