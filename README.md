@@ -1,8 +1,10 @@
 ## Philip Clarke
 
-I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
+I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. Parents and carers still use my software across the UK to get training and support when working with vulnerable children.
 
-I love learning new technologies and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be helping to build something beautiful for a global market.
+I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
+
+I love learning new technologies and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be having fun, working hard building something beautiful and cutting edge for a global market.
 
 ###Code Examples
 -------------
@@ -27,7 +29,7 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 #### Software Development
 
 - Built and sold successful local authority micro networking products using initially elgg, then drupal and PHP that created successful knowledge based communities for vulnerable groups across the UK.
-- Designed, implemented, hosted and supported global case management software for Gaucher humanitarian Aid which tracked the medical histories of sick and dying children across the world.
+- Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracked requests for charitable access treatment for children and adults across the world with Gaucher disease.
 - Created an sms school bus alert system based on the Essendex api to support parents of disabled children.
 - Created an MVP goal sharing application for Amelore Ltd.
 - Set up marketing and fundraising databases for several national and international charities.
@@ -35,7 +37,7 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 
 #### IT entrepreneur
 
-- 10 years building tech businesses, some successfull, many unsuccessfull.
+- 10 years building tech businesses, some successful, many unsuccessful.
 - Building, making and selling products for various clients and having lots of fun with start ups, charities, and local government including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
 - Ran my own IT companies with turn over of £200,000 a year.
 - Led the business development of CareZone, a secure web service for vulnerable children https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
