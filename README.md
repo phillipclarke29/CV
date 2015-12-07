@@ -1,19 +1,17 @@
 ## Philip Clarke
 
-I have spent the last 10 years using different technologies to build, develop and sell innovative web products to companies, charities and government departments across the UK. Parents and carers still use my software across the UK to get training and support when working with vulnerable children.
+I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products for companies in both private and public sectors across the UK.  Parents and carers still use my software across the UK to access professional development, training and support when working with vulnerable children.  
 
-I get my tech kicks by taking ideas and turning them into exciting businesses and now want to use the latest code to do it all over again.  I would like to build on my coding adventures at Makers Academy, grow my junior developer skills, and help create something fantastic, new and exciting.
-
-I love learning new technologies and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be having fun, working hard building something beautiful and cutting edge for a global market.
+Continuing on after my coding adventure at Maker's Academy, I want to use the latest technology to do it all over again start as a junior developer and working my way back up. I love learning and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market.
 
 ###Code Examples
 -------------
 |Project Name | Description |
 |-------------|-------------|
 |[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
-|[Ionic Todo app](https://github.com/phillipclarke29/ionicapp)|Playing with Ionic|
-|[Thermostat](https://github.com/phillipclarke29/thermostat)|An online thermostat using Javascript and express|
-|[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge)|Score a bowling game for one player using Javascript and Jasmine|
+|[Tessel shop](https://github.com/phillipclarke29/tessel)|A angular based e-commerce site|
+|[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
+|[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge)|Scoring a bowling game for one player using Javascript and Jasmine|
 
 ###Technical Skills and Technologies
 ---------------------------------
@@ -21,7 +19,7 @@ I love learning new technologies and particularly enjoy turning great ideas and 
 |---------|----------------|-------------------|------------------------------|
 |Languages|Javascript, Angular, Node, Express, Ruby
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
-|Frameworks|Angular, Ionic |Meteor, Rails|                    |
+|Frameworks|Angular, Ionic |ds Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
