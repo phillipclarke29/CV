@@ -34,22 +34,11 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 
 #### IT entrepreneur
 
-- 10 years building tech businesses, some successful, many unsuccessful.
-- Building, making and selling products for various clients and having lots of fun with start ups, charities, and local government including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
-- Ran my own IT companies with turn over of £200,000 a year.
-- Led the business development of CareZone, a secure web service for vulnerable children https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
+- 10 years building tech businesses, some successful, some unsuccessful.
+- Built and sold products for clients from start ups, charities to local government, including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
+- Ran my own IT company with turn over of £200,000 a year.
+- Led the business development of CareZone, an early silicon roundabout start up delivering secure web service for vulnerable children. http://tinyurl.com/zjuaymy
 
-10 years building tech businesses, some successfull, many unsuccessfull.
--- Building, making and selling products for various clients and having lots of fun with start ups, charities, and local government including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
--- Ran my own IT companies with turn over of £200,000 a year.
--- Led the business development of CareZone, a secure web service for vulnerable children https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
-+- 10 years experience building and launching tech businesses
-+- Built and sold products for clients from start ups, charities to local government, including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
-+- Founder and owner of several IT companies with turn over of £200,000 a year.
-+<!-- name the IT companies? -->
-+- Led business development of CareZone, a secure web service for vulnerable children
-+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=carezone+%22who+cares+trust%22
-+
 
 #### Database Marketing
 
