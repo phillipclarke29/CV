@@ -4,7 +4,7 @@ I get my tech kicks by taking ideas and turning them into exciting businesses.  
 
 I am proud that parents and carers still use my software across the UK to access professional development, training and support when working with vulnerable children.  
 
-Continuing on after my coding adventure at Maker's Academy, I want to use the latest technology to do it all over again start as a junior developer and working my way back up. I love learning and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project but with funding.
+Continuing on after my coding adventure at Maker's Academy, I want to use the latest technology to do it all over again start as a junior developer and working my way back up. I love learning and particularly enjoy turning great ideas and good code into income.  In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with much more funding.
 
 ###Code Examples
 -------------
@@ -52,7 +52,7 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 ##### Current Projects
 
 - www.tessel.co.uk - angular web store
-- globaltrackit.com - firebase based geolocation app.
+- [globaltrackit](https://www.globaltrackit.com)
 
 
 ## Education
