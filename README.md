@@ -51,8 +51,8 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 
 ##### Current Projects
 
-- www.tessel.co.uk - angular web store
-- [globaltrackit](https://www.globaltrackit.com)
+- [angular web store](http://www.tessel.co.uk)
+- [globaltrackit](http://www.globaltrackit.com)
 
 
 ## Education
