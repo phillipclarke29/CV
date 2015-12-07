@@ -43,25 +43,25 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 #### Database Marketing
 
 - 15 years marketing database management for charities including Kids Company, RSPB, Kew Gardens and IFAW.
-- Managed a marketing team that grew major donor income by 100% in two years.
-- Built a global marketing team based in three continents working to support international wildlife conservation work.
-- Set up marketing and fundraising databases for numerous charities.
+- Managed a direct mail marketing team of 7 that grew major donor income by 100% to £9 million in two years.
+- Built a global marketing team based of 3 in three continents working to support international wildlife conservation work.
+- Set up marketing and fundraising databases for other charities.
 
 ##### Current Projects
 
-- www.tessel.co.uk
-- globaltrackit.com
+- www.tessel.co.uk - angular web store
+- globaltrackit.com - firebase based geolocation app.
 
 
 ## Education
 
 #### Makers Academy (September 2015 cohort)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, MVC,
+- OOP, TDD, MVC
 - Software Craftsmanship
-- Pair programming
+- Advocate for pair programming
 
 #### Sussex University (1984-1987)
 
