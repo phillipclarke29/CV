@@ -19,18 +19,17 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 |---------|----------------|-------------------|------------------------------|
 |Languages|Javascript, Angular, Node, Express, Ruby
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
-|Frameworks|Angular, Ionic |ds Rails|                    |
+|Frameworks|Angular, Ionic |Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 
 #### Software Development
 
-- Built and sold successful local authority micro networking products using initially elgg, then drupal and PHP that created successful knowledge based communities for vulnerable groups across the UK.
-- Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracked requests for charitable access treatment for children and adults across the world with Gaucher disease.
-- Created an sms school bus alert system based on the Essendex api to support parents of disabled children.
++- Successfully built and sold micro networking products for local authorities using Elgg initially, then Drupal and PHP that facilitated knowledge sharing communities for vulnerable groups across the UK.
++- Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracked requests for charitable access treatment for children and adults across the world with Gaucher disease.
++- Built an sms school bus alert system based on the Essendex API to support parents of disabled children.
 - Created an MVP goal sharing application for Amelore Ltd.
-- Set up marketing and fundraising databases for several national and international charities.
 
 
 #### IT entrepreneur
