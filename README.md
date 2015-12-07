@@ -26,10 +26,10 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 
 #### Software Development
 
-- Successfully built and sold micro networking products for local authorities using Elgg initially, then Drupal and PHP that facilitated knowledge sharing communities for vulnerable groups across the UK.
-- Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracked requests for charitable access treatment for children and adults across the world with Gaucher disease.
-- Built an sms school bus alert system based on the Essendex API to support parents of disabled children.
-- Created an MVP goal sharing application for Amelore Ltd.
+- Using Elgg initially, then Drupal and PHP, I successfully built and sold micro networking products for local authorities using that facilitated knowledge sharing communities for vulnerable groups across the UK.
+- Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracks requests for charitable access treatment for children and adults across the world with Gaucher disease.
+- Built and sold an sms school bus alert system based on the Essendex API to support parents of disabled children.
+- Created an MVP HR goal sharing application for Amelore Ltd.
 
 
 #### IT entrepreneur
