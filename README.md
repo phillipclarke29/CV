@@ -53,6 +53,7 @@ Continuing on after my coding adventure at Maker's Academy, I want to use the la
 
 - [angular web store](http://www.tessel.co.uk)
 - [globaltrackit](http://www.globaltrackit.com)
+- Currently working my way through Node School(http://nodeschool.io/) and MongoDB fro developers (https://university.mongodb.com/courses/M101JS/about)
 
 
 ## Education
