@@ -2,7 +2,7 @@
 
 I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products for the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers still use my software across the UK to access professional development, training and support when working with vulnerable children.  
 
-I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level.  But I fell in love with coding.  I want to continue on after my coding adventure at Maker's Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
+I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level - but I fell in love with coding.  I want to continue on after my coding adventure at Maker's Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
 
 In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with much more funding.
 
