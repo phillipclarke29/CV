@@ -53,7 +53,7 @@ In my perfect world I would be having fun, working hard, building something beau
 
 - [angular web store](http://www.tessel.co.uk)
 - [globaltrackit](http://www.globaltrackit.com)
-- Currently working my way through Node School(http://nodeschool.io/) and MongoDB for developers (https://university.mongodb.com/courses/M101JS/about)
+- Working my way through Node School(http://nodeschool.io/) and MongoDB for developers (https://university.mongodb.com/courses/M101JS/about)
 
 
 ## Education
