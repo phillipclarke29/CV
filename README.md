@@ -1,17 +1,17 @@
 ## Philip Clarke
 
-I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products for the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers still use my software across the UK to access professional development, training and support when working with vulnerable children.  
+I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers across the UK still use my software to access professional development, training and support when working with vulnerable children.  
 
 I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level - but I fell in love with coding.  I want to continue on after my coding adventure at Maker's Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
 
-In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with much more funding.
+In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with funding.
 
 ###Code Examples
 -------------
 |Project Name | Description |
 |-------------|-------------|
 |[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
-|[Tessel shop](https://github.com/phillipclarke29/tessel)|A angular based e-commerce site|
+|[Tessel shop](https://github.com/phillipclarke29/tessel)|An angular based e-commerce site|
 |[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
 |[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge1)|Scoring a bowling game for one player using Javascript and Jasmine|
 
@@ -73,11 +73,11 @@ In my perfect world I would be having fun, working hard, building something beau
 ## Employment
 
 **Redhood IT** (July 2005 - Present)    
-CEO
+MD
 **The Who Cares? Trust** (2001 - 2005)   
 Development Director
 **Kids Company** (2000 - 2001)   
-Marketing Consultant
+Development Consultant
 **IFAW** (1996 - 2000)   
 Marketing Manager
 **RSPB** (1992 - 1996)   
