@@ -72,12 +72,12 @@ In my perfect world I would be having fun, working hard, building something beau
 
 ## Employment
 
-**Redhood IT** (July 2005 - Present)
-MD
-**The Who Cares? Trust** (2001 - 2005)
-Development Director
-**Kids Company** (2000 - 2001)
-Development Consultant
+**Redhood IT** (July 2005 - Present)  
+MD  
+**The Who Cares? Trust** (2001 - 2005)  
+Development Director  
+**Kids Company** (2000 - 2001)  
+Development Consultant  
 **IFAW** (1996 - 2000)   
 Marketing Manager
 **RSPB** (1992 - 1996)   
