@@ -10,7 +10,7 @@ In my perfect world I would be having fun, working hard, building something beau
 -------------
 |Project Name | Description |
 |-------------|-------------|
-|[Dr WoW] (https://github.com/UsmanJ/DrWow)|Online Medical MVP Site|
+|[Dr WoW] (https://github.com/UsmanJ/DrWoW)|Online Medical MVP Site|
 |[Tessel shop](https://github.com/phillipclarke29/tessel)|An angular based e-commerce site|
 |[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
 |[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge1)|Scoring a bowling game for one player using Javascript and Jasmine|
@@ -28,9 +28,9 @@ In my perfect world I would be having fun, working hard, building something beau
 
 #### Software Development
 
-- Using Elgg initially, then Drupal and PHP, I successfully built and sold micro networking products for local authorities using that facilitated knowledge sharing communities for vulnerable groups across the UK.
+- Using Elgg initially, then Drupal and PHP, I successfully built and sold micro networking products for local authorities to facilitate knowledge sharing communities for vulnerable groups across the UK.
 - Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracks requests for charitable access treatment for children and adults across the world with Gaucher disease.
-- Built and sold an sms school bus alert system based on the Essendex API to support parents of disabled children.
+- Built and sold an SMS school bus alert system based on the Essendex API to support parents of disabled children.
 - Created an MVP HR goal sharing application for Amelore Ltd.
 
 
@@ -38,7 +38,7 @@ In my perfect world I would be having fun, working hard, building something beau
 
 - 10 years building tech businesses, some successful, some unsuccessful.
 - Built and sold products for clients from start ups, charities to local government, including North Lanarkshire Council Haringey Council, Norfolk County Council, Gaucher Association and Amelore Ltd.
-- Ran my own IT company with turn over of £200,000 a year.
+- Ran my own IT company with turn over of up to £200,000 a year.
 - Led the business development of CareZone, an early silicon roundabout start up delivering secure web service for vulnerable children. http://tinyurl.com/zjuaymy
 
 
@@ -72,11 +72,11 @@ In my perfect world I would be having fun, working hard, building something beau
 
 ## Employment
 
-**Redhood IT** (July 2005 - Present)    
+**Redhood IT** (July 2005 - Present)
 MD
-**The Who Cares? Trust** (2001 - 2005)   
+**The Who Cares? Trust** (2001 - 2005)
 Development Director
-**Kids Company** (2000 - 2001)   
+**Kids Company** (2000 - 2001)
 Development Consultant
 **IFAW** (1996 - 2000)   
 Marketing Manager
