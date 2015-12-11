@@ -6,24 +6,6 @@ I have extensive experience of starting, developing and growing businesses, mana
 
 In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with funding.
 
-###Code Examples
--------------
-|Project Name | Description |
-|-------------|-------------|
-|[Dr WoW] (https://github.com/UsmanJ/DrWoW)|Online Medical MVP Site|
-|[Tessel shop](https://github.com/phillipclarke29/tessel)|An angular based e-commerce site|
-|[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
-|[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge1)|Scoring a bowling game for one player using Javascript and Jasmine|
-
-###Technical Skills and Technologies
----------------------------------
-| |Most Comfortable|Comfortable|Touched on|
-|---------|----------------|-------------------|------------------------------|
-|Languages|Javascript, Angular, Node, Express, Ruby
-|Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
-|Frameworks|Angular, Ionic |Rails|                    |
-|Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
-|Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 
 #### Software Development
@@ -48,6 +30,25 @@ In my perfect world I would be having fun, working hard, building something beau
 - Managed a direct mail marketing team of 7 that grew major donor income by 100% to £9 million in two years.
 - Built a global marketing team based of 3 in three continents working to support international wildlife conservation work.
 - Set up marketing and fundraising databases for other charities.
+
+###Code Examples
+-------------
+|Project Name | Description |
+|-------------|-------------|
+|[Dr WoW] (https://github.com/UsmanJ/DrWoW)|Online Medical MVP Site|
+|[Tessel shop](https://github.com/phillipclarke29/tessel)|An angular based e-commerce site|
+|[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
+|[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge1)|Scoring a bowling game for one player using Javascript and Jasmine|
+
+###Technical Skills and Technologies
+---------------------------------
+| |Most Comfortable|Comfortable|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Javascript, Angular, Node, Express, Ruby
+|Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
+|Frameworks|Angular, Ionic |Rails|                    |
+|Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
+|Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 ##### Current Projects
 
