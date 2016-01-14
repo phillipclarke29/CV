@@ -1,8 +1,8 @@
 ## Philip Clarke
 
-I get my tech kicks by taking ideas and turning them into exciting businesses.  Over the last 10 years, I have built and sold innovative web products to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers across the UK still use my software to access professional development, training and support when working with vulnerable children.  
+Over the last 10 years, I have built and sold innovative web products to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers across the UK still use my software to access professional development, training and support when working with vulnerable children.  
 
-I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level - but I fell in love with coding.  I want to continue on after my coding adventure at Maker's Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
+I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level - but I fell in love with coding.  I want to continue on after my coding adventure at Makers Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
 
 In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with funding.
 
@@ -44,9 +44,9 @@ In my perfect world I would be having fun, working hard, building something beau
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Javascript, Angular, Node, Express, Ruby
+|Languages|Javascript, Angular, Node, Express, Ruby| PHP
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
-|Frameworks|Angular, Ionic |Rails|                    |
+|Frameworks|Angular, Ionic, Drupal |Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
