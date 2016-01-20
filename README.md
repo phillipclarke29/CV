@@ -52,8 +52,8 @@ In my perfect world I would be having fun, working hard, building something beau
 
 ##### Current Projects
 
-- [angular web store](http://www.tessel.co.uk)
-- [globaltrackit](http://www.globaltrackit.com)
+- [angular web store](https://github.com/phillipclarke29/spudsearch)
+- [spudsearch](http://www.globaltrackit.com)
 - Working my way through Node School(http://nodeschool.io/) and MongoDB for developers (https://university.mongodb.com/courses/M101JS/about)
 
 
