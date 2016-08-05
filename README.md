@@ -69,7 +69,9 @@ In my perfect world I would be having fun, working hard, building something beau
 
 ## Employment
 
-**Redhood IT** (July 2005 - Present)  
+**BAe Systems** (January 2016 - present)
+Project Manager / System Developer
+**Redhood IT** (July 2005 - January 2016)  
 MD  
 **The Who Cares? Trust** (2001 - 2005)  
 Development Director  
