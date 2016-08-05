@@ -1,19 +1,20 @@
 ## Philip Clarke
 
-Over the last 10 years, I have built and sold innovative web products to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product. I am proud that parents and carers across the UK still use my software to access professional development, training and support when working with vulnerable children.  
+Over the last 20 years, I have built and sold innovative IT solutions to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product or online service.
 
-I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level - but I fell in love with coding.  I want to continue on after my coding adventure at Makers Academy and use the latest technology to do it all over again, starting as a junior developer and working my way back up. I love learning and particularly enjoy working in pairs and as part of a team to turn great ideas and good code into income.  
+I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level.  I have recruited, built and managed successful "stripy" teams, bringing together a variety of contractors, developers, researchers, technical authors and engineers to create focussed, agile teams.
 
-In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market - something like our globaltrackit project - but with funding.
+In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market.
 
 
 
 #### Software Development
 
-- Using Elgg initially, then Drupal and PHP, I successfully built and sold micro networking products for local authorities to facilitate knowledge sharing communities for vulnerable groups across the UK.
+- Using Elgg initially, then Drupal and PHP, I successfully built and sold secure networking products for local authorities to facilitate knowledge sharing communities for vulnerable groups across the UK.
 - Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracks requests for charitable access treatment for children and adults across the world with Gaucher disease.
 - Built and sold an SMS school bus alert system based on the Essendex API to support parents of disabled children.
 - Created an MVP HR goal sharing application for Amelore Ltd.
+- Recruited and led a team of 15 developers building a multi - million pound cutting edge online service for a government department.
 
 
 #### IT entrepreneur
@@ -26,8 +27,8 @@ In my perfect world I would be having fun, working hard, building something beau
 
 #### Database Marketing
 
-- 15 years marketing database management for charities including Kids Company, RSPB, Kew Gardens and IFAW.
-- Managed a direct mail marketing team of 7 that grew major donor income by 100% to £9 million in two years.
+- 15 years database engineering for charities including Kids Company, RSPB, Kew Gardens and IFAW.
+- Managed a direct mail team of 7 practitioners and engineers that grew major donor income by 100% to £9 million in two years.
 - Built a global marketing team based of 3 in three continents working to support international wildlife conservation work.
 - Set up marketing and fundraising databases for other charities.
 
@@ -44,17 +45,12 @@ In my perfect world I would be having fun, working hard, building something beau
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Javascript, Angular, Node, Express, Ruby| PHP
+|Languages|Java, Javascript, Angular, Node, Express, Ruby| PHP
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
 |Frameworks|Angular, Ionic, Drupal |Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
-##### Current Projects
-
-- [angular web store](http://www.tessel.co.uk)
-- [spudsearch](https://github.com/phillipclarke29/spudsearch)
-- Working my way through Node School(http://nodeschool.io/) and MongoDB for developers (https://university.mongodb.com/courses/M101JS/about)
 
 
 ## Education
