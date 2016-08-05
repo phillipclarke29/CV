@@ -76,12 +76,12 @@ MD
 **The Who Cares? Trust** (2001 - 2005)  
 Development Director  
 **Kids Company** (2000 - 2001)  
-Development Consultant  
+Web Consultant  
 **IFAW** (1996 - 2000)   
-Marketing Manager  
+IT Innovation Manager  
 **RSPB** (1992 - 1996)   
 Database Marketing Manager  
 **Royal Botanic Gardens Kew** (1990 - 1992)   
-Database Marketing Manager  
+Database Manager  
 **Keystone Ventures, Taipei** (1989 - 1990)   
 Marketing Assistant
