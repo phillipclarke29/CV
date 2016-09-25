@@ -2,19 +2,18 @@
 
 Over the last 20 years, I have built and sold innovative IT solutions to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product or online service.
 
-I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level.  I have recruited, built and managed successful "stripy" teams, bringing together a variety of contractors, developers, researchers, technical authors and engineers to create focussed, agile teams.
+I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level.  I have recruited, built and managed successful "stripy" teams, bringing together a variety of contractors, developers, researchers, technical authors and engineers to create focussed, successful, agile teams.
 
-In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market.
-
+In order to maintain an up to date understanding of the latest cutting edge software build techniques, design frameworks and working practises needed used create software I spent 8 months studying Web Development with Makers Academy, the UK's leading software developer course.  In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market.
 
 
 #### Software Development
 
 - Using Elgg initially, then Drupal and PHP, I successfully built and sold secure networking products for local authorities to facilitate knowledge sharing communities for vulnerable groups across the UK.
 - Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracks requests for charitable access treatment for children and adults across the world with Gaucher disease.
-- Built and sold an SMS school bus alert system based on the Essendex API to support parents of disabled children.
+- Built and sold an SMS school bus alert system based support parents of disabled children.
 - Created an MVP HR goal sharing application for Amelore Ltd.
-- Recruited and led a team of 15 developers building a multi - million pound cutting edge online service for a government department.
+- Recruited and led a team of 17 developers building a multi - million pound cutting edge online service for a government department.
 
 
 #### IT entrepreneur
@@ -25,7 +24,7 @@ In my perfect world I would be having fun, working hard, building something beau
 - Led the business development of CareZone, an early silicon roundabout start up delivering secure web service for vulnerable children. http://tinyurl.com/zjuaymy
 
 
-#### Database Marketing
+#### Project Management
 
 - 15 years database engineering for charities including Kids Company, RSPB, Kew Gardens and IFAW.
 - Managed a direct mail team of 7 practitioners and engineers that grew major donor income by 100% to £9 million in two years.
@@ -37,7 +36,6 @@ In my perfect world I would be having fun, working hard, building something beau
 |Project Name | Description |
 |-------------|-------------|
 |[Dr WoW] (https://github.com/UsmanJ/DrWoW)|Online Medical MVP Site|
-|[Tessel shop](https://github.com/phillipclarke29/tessel)|An angular based e-commerce site|
 |[Thermoexpress](https://github.com/phillipclarke29/thermoexpress)|An online thermostat using Javascript and express|
 |[Bowling Challenge](https://github.com/phillipclarke29/bowling-challenge1)|Scoring a bowling game for one player using Javascript and Jasmine|
 
@@ -70,11 +68,11 @@ In my perfect world I would be having fun, working hard, building something beau
 ## Employment
 
 **BAe Systems** (January 2016 - present)
-Project Manager / System Developer
+Project Manager
 **Redhood IT** (July 2005 - January 2016)  
 MD  
 **The Who Cares? Trust** (2001 - 2005)  
-Development Director  
+Web Development Director  
 **Kids Company** (2000 - 2001)  
 Web Consultant  
 **IFAW** (1996 - 2000)   
