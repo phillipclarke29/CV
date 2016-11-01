@@ -1,11 +1,10 @@
 ## Philip Clarke
 
-Over the last 20 years, I have built and sold innovative IT solutions to both the private and public sectors and I know of no better buzz than successfully developing and selling a new product or online service.
+Over the last 20 years, I have innovative IT solutions for both the private and public sectors and I know of no better buzz than successfully developing a new product or online service.
 
 I have extensive experience of starting, developing and growing businesses, managing budgets and staff and working at a senior level.  I have recruited, built and managed successful "stripy" teams, bringing together a variety of contractors, developers, researchers, technical authors and engineers to create focussed, successful, agile teams.
 
-In order to maintain an up to date understanding of the latest cutting edge software build techniques, design frameworks and working practises needed used create software I spent 8 months studying Web Development with Makers Academy, the UK's leading software developer course.  In my perfect world I would be having fun, working hard, building something beautiful and cutting edge for a global market.
-
+In order to maintain an up to date understanding of the latest cutting edge software build techniques, design frameworks and working practises needed used create software I spent 8 months studying Web Development with Makers Academy, the UK's leading software developer course.  In my perfect world I would be having fun, working hard, building something innovative and cutting edge.
 
 #### Software Development
 
@@ -13,8 +12,7 @@ In order to maintain an up to date understanding of the latest cutting edge soft
 - Designed, implemented, hosted and supported global case management software for the European Gaucher Alliance which tracks requests for charitable access treatment for children and adults across the world with Gaucher disease.
 - Built and sold an SMS school bus alert system based support parents of disabled children.
 - Created an MVP HR goal sharing application for Amelore Ltd.
-- Recruited and led a team of 17 developers building a multi - million pound cutting edge online service for a government department.
-
+- Recruited and led an agile team of 17 developers building a multi - million pound cutting edge online service for a government department.
 
 #### IT entrepreneur
 
@@ -26,10 +24,9 @@ In order to maintain an up to date understanding of the latest cutting edge soft
 
 #### Project Management
 
-- 15 years database engineering for charities including Kids Company, RSPB, Kew Gardens and IFAW.
-- Managed a direct mail team of 7 practitioners and engineers that grew major donor income by 100% to £9 million in two years.
-- Built a global marketing team based of 3 in three continents working to support international wildlife conservation work.
-- Set up marketing and fundraising databases for other charities.
+- Managed several multi located, agile software development teams for businesses and Government acting in a range of roles from Developer, to System Architect and Product Owner/Project Manager
+- Led multidisciplinary development teams to deliver high profile software projects for national UK charities
+- Successfully run a profitable small IT business
 
 ###Code Examples
 -------------
@@ -47,7 +44,8 @@ In order to maintain an up to date understanding of the latest cutting edge soft
 |Databases/ORMS|Mongodb, MySQl, PostGresQL, DataMapper, ActiveRecord, Firebase| DataMapper                |
 |Frameworks|Angular, Ionic, Drupal |Rails|                    |
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
-|Other|Version control through Github|Heroku deployment, Agile methodologies| |
+|Project Management|Scrum, Jira, Kamban|
+|Other|Version control through Github|Heroku deployment |
 
 
 
